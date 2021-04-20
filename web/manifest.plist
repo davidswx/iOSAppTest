@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.100.1.151:8081/SolarWallet.ipa</string>
+					<string>http://192.168.51.148:8081/swhy.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.SolarSoft.SolarWallet</string>
+				<string>com.sywg.emobile</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>3.2.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>chjz.0</string>
+				<string>申万宏源</string>
 			</dict>
 		</dict>
 	</array>
